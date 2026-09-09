@@ -1,4 +1,4 @@
-# Excel Income Report Dashboard 2026
+# NZ Nonprofit Excel Income Report Dashboard 2026
 
 ## Project Overview
 
